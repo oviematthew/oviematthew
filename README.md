@@ -12,16 +12,17 @@ I am Matthew Ovie Enamuotor, Welcome to my repository.
 
 
 ##### Technologies I am familiar with
-![Static Badge](https://img.shields.io/badge/HTML5-E44D26)
-![Static Badge](https://img.shields.io/badge/CSS3-214CE5)
-![Static Badge](https://img.shields.io/badge/Javascript-E8D44D)
-![Static Badge](https://img.shields.io/badge/jQuery-106DAF)
-![Static Badge](https://img.shields.io/badge/Java-f89820)
-![Static Badge](https://img.shields.io/badge/SQLite_Database-08425D)
-![Static Badge](https://img.shields.io/badge/Firebase-FFCD32)
-![Static Badge](https://img.shields.io/badge/Swift-F05138)
-![Static Badge](https://img.shields.io/badge/React_Native-66DBFB)
-![Static Badge](https://img.shields.io/badge/Liquid-10039F)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel)](https://skillicons.dev)
+
+
+##### I use these software to aid my productivity
+![Static Badge](https://img.shields.io/badge/Asana-F06A6A)
+![Static Badge](https://img.shields.io/badge/Slack-FFFFFF)
+![Static Badge](https://img.shields.io/badge/Notion-000000)
+![Static Badge](https://img.shields.io/badge/Vs_Code-0175C5)
+
+
 
 
 

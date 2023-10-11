@@ -11,12 +11,12 @@ I am Matthew Ovie Enamuotor, Welcome to my repository.
 - ⚡ Fun fact: I can beat you at fifa and warzone
 
 
-##### Technologies I am familiar with
+Technologies I am familiar with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel)](https://skillicons.dev)
 
 
-##### I use these software to aid my productivity
+I use these software to aid my productivity:
 ![Static Badge](https://img.shields.io/badge/Asana-F06A6A)
 ![Static Badge](https://img.shields.io/badge/Slack-FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Notion-000000)

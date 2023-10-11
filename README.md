@@ -1,5 +1,4 @@
-## Hi there 👋
-I am Matthew Ovie Enamuotor, Welcome to my repository.
+## Hi there 👋 Welcome to my repo.
 
 - 🔭 I’m currently working on My post-graduate in Mobile Applications Development
 - 🌱 I’m currently learning Swift, React Native and Kotlin

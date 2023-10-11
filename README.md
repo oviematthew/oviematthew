@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my repo.
+## Hi there 👋 Welcome to my Repo.
 
 - 🔭 I’m currently working on My post-graduate in Mobile Applications Development
 - 🌱 I’m currently learning Swift, React Native and Kotlin

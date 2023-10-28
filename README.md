@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can beat you at fifa and warzone
 
 
-Technologies I am familiar with: 
+Technologies I am familiar, and work with: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel)](https://skillicons.dev)
 

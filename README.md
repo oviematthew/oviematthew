@@ -20,6 +20,7 @@ I use these softwares to aid my productivity: &nbsp;
 ![Static Badge](https://img.shields.io/badge/Slack-FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Notion-000000)
 ![Static Badge](https://img.shields.io/badge/Vs_Code-0175C5)
+![Static Badge](https://img.shields.io/badge/Docker-0175C5)
 
 
 

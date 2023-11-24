@@ -12,7 +12,7 @@
 
 Technologies I am familiar, and work with: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel,postman,docker)](https://skillicons.dev)
 
 
 I use these softwares to aid my productivity: &nbsp;  
@@ -20,7 +20,6 @@ I use these softwares to aid my productivity: &nbsp;
 ![Static Badge](https://img.shields.io/badge/Slack-FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Notion-000000)
 ![Static Badge](https://img.shields.io/badge/Vs_Code-0175C5)
-![Static Badge](https://img.shields.io/badge/Docker-0175C5)
 
 
 

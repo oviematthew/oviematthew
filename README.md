@@ -12,7 +12,7 @@
 
 Technologies I am familiar, and work with: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,jquery,sqlite,firebase,swift,react,vercel,postman,docker,express)](https://skillicons.dev)
 
 
 I use these softwares to aid my productivity: &nbsp;  

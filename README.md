@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my Repo.
 
-- 🔭 I’m currently working on My post-graduate in Mobile Applications Development
-- 🌱 I’m currently learning and working with Swift, React Native and Kotlin
+- 🔭 I’m currently taking my post-graduate in Mobile Applications Development
+- 🌱 I’m currently working with Swift, React Native and Kotlin
 - 👯 I’m looking to collaborate on any fantastic project
 - 🤔 I’m looking for help with anything to help us grow
 - 💬 Ask me about anything concerning helping each other grow

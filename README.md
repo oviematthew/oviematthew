@@ -7,7 +7,7 @@
 - 💬 Ask me about anything concerning helping each other grow
 - 📫 How to reach me? via email: hello@oviematthew.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I can beat you on fifa 
+- ⚡ Fun fact: I will thrash you on fifa 
 
 
 Technologies I am familiar, and work with: 

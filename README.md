@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently taking my post-graduate in Mobile Applications Development
 - 🌱 I’m currently working with Swift, React Native and Kotlin
-- 👯 I’m looking to collaborate on any fantastic project
 - 🤔 I’m looking for help with anything to help me  grow
 - 💬 Ask me about anything concerning helping each other grow
 - 📫 How to reach me? via email: hello@oviematthew.com

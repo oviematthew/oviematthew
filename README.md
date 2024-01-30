@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Repo.
 
-- 🔭 I’m currently taking my post-graduate in Mobile Applications Development
+- 🔭 I’m currently taking my post-graduate's in Mobile Applications Development
 - 🌱 I’m currently working with Swift, React Native and Kotlin
 - 🤔 I’m looking for help with anything to help me  grow
 - 💬 Ask me about anything concerning helping each other grow

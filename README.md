@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with anything to help me grow daily
 - 📫 How to reach me? via email: hello@oviematthew.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Ilearn concepts real quickly
+- ⚡ Fun fact: I learn concepts real quickly
 
 
 Technologies I am familiar, with and work with: 

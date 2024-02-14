@@ -5,10 +5,10 @@
 - 🤔 I’m looking for help with anything to help me grow daily
 - 📫 How to reach me? via email: hello@oviematthew.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I will thrash you on fifa 
+- ⚡ Fun fact: Ilearn concepts real quickly
 
 
-Technologies I am familiar, and work with: 
+Technologies I am familiar, with and work with: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,java,jquery,nodejs,sqlite,firebase,swift,react,redux,vercel,postman,docker,express,androidstudio,vscode,git,wordpress,photoshop,illustrator,figma,netlify)](https://skillicons.dev)
 

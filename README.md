@@ -1,11 +1,11 @@
 ## Hi there 👋 Welcome to my Repository.
 
-- 🔭 I’m currently taking my post-graduate's in Mobile Applications Development
+- 🔭 I’m currently taking my post-graduates in Mobile Applications Development
 - 🌱 I’m currently working with Swift, React Native and Kotlin
 - 🤔 I’m looking for help with anything to help me grow daily
 - 📫 How to reach me? via email: hello@oviematthew.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I learn concepts real quickly
+- ⚡ Fun fact: I grasp new languages, concepts really quickly
 
 
 Technologies I am familiar, with and work with: 

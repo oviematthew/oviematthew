@@ -12,7 +12,10 @@ Technologies I am familiar, with and work with:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,java,jquery,nodejs,sqlite,firebase,swift,react,redux,vercel,postman,docker,express,androidstudio,vscode,git,wordpress,photoshop,illustrator,figma,netlify)](https://skillicons.dev)
 
-
+<img
+  src="https://github.com/oviematthew/oviematthew/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 
 

@@ -14,7 +14,7 @@ Technologies I am familiar, with and work with:
 
 <img
   src="https://github.com/oviematthew/oviematthew/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Ovie WakaTime Activity"
 />
 
 

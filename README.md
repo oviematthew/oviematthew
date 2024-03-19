@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with anything to help me grow daily
 - 📫 How to reach me? via email: hello@oviematthew.com or alternatively, for swift replies on <a href="https://www.linkedin.com/in/matthew-ovie-enamuotor-9992b6132/">LinkedIn</a>
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I can grasp new languages, concepts really quickly
+- ⚡ Fun fact: I grasp new languages, concepts really quickly
 
 
 Technologies I am familiar, with and work with: 

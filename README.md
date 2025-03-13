@@ -10,7 +10,7 @@
 
 ### Technologies I am familiar, with and work with: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,java,jquery,nodejs,sqlite,firebase,swift,react,redux,vercel,postman,docker,express,androidstudio,vscode,git,wordpress,photoshop,illustrator,figma,netlify,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,next,java,jquery,nodejs,sqlite,firebase,swift,react,redux,vercel,postman,docker,express,androidstudio,vscode,git,wordpress,photoshop,illustrator,figma,netlify,npm)](https://skillicons.dev)
 
 
 
